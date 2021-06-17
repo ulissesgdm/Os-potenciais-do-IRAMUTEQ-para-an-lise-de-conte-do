@@ -1,0 +1,20 @@
+[wordcloud]
+graphout = C:\Users\uliss_000\OneDrive\Artigo - STF\voto-gilmar teste_corpus_3\voto-gilmar teste_wordcloud_3\nuage_1.png
+col_text = (0, 0, 0, 255)
+pathout = C:\Users\uliss_000\OneDrive\Artigo - STF\voto-gilmar teste_corpus_3\voto-gilmar teste_wordcloud_3
+name = voto-gilmar teste_wordcloud_3
+mincex = 0.5
+encoding = cp1252
+maxcex = 5.0
+maxword = 600
+lem = 1
+height = 800
+col_bg = (255, 255, 255, 255)
+width = 800
+svg = 0
+mode = 0
+time = 0h 0m 41s
+ira = C:\Users\uliss_000\OneDrive\Artigo - STF\voto-gilmar teste_corpus_3\voto-gilmar teste_wordcloud_3\Analyse.ira
+corpus = 9f9d94b1-36a7-46c3-b540-50fe7a581d6a
+type = wordcloud
+uuid = 1ca3daa3-ae91-4888-8e93-24d110e67a80
