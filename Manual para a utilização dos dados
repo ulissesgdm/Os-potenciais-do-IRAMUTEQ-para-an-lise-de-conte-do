@@ -1,0 +1,14 @@
+Olá, aqui estão algumas dicas para a utilização da base de dados.
+
+Os scripts replicáveis podem ser encontrados nos arquivos com o
+nome "RData.RData".
+
+Recomendamos que se utilize o RStudio para melhor manipulação e
+replicação dos dados, cada tabela, gráfico e imagem está destrin-
+chada nos objetos que carregam no RStudio.
+
+Outros dados estão, em sua maioria em CSV.
+
+Também é possível replicar diretamente no software Iramuteq via
+os arquivos pertencentes ao próprio programa.
+
